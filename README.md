@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Odoo project on LSV-TECH](https://lsv-tech.com/talent-job/)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang** & **Flutter**
 
 - 💬 Ask me about **Python, Django, Odoo**
 
