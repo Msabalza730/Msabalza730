@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **maryorism730@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maryori-sabalza-125bbb9b/](https://www.linkedin.com/in/maryori-sabalza-125bbb9b/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/maryori-sabalza-125bbb9b/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
