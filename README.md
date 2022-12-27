@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msabalza730&label=Profile%20views&color=0e75b6&style=flat" alt="msabalza730" /> </p>
 
-- 🔭 I’m currently working on [Odoo project on LSV-TECH](https://lsv-tech.com/talent-job/)
+- 🔭 I’m currently working on [React project on LSV-TECH](https://lsv-tech.com/talent-job/)
 
-- 🌱 I’m currently learning **Golang** & **Java** & **Flutter**
+- 🌱 I’m currently learning **Golang** & **Java**
 
 - 💬 Ask me about **Python, Django, Odoo**
 
