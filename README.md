@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msabalza730&label=Profile%20views&color=0e75b6&style=flat" alt="msabalza730" /> </p>
 
-- 🔭 I’m currently working on [React project on LSV-TECH](https://lsv-tech.com/talent-job/)
+- 🔭 I’m currently working on [Python-Selenium project on LSV-TECH](https://lsv-tech.com/)
 
 - 🌱 I’m currently learning **Golang** & **Java**
 
