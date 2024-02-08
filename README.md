@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msabalza730&label=Profile%20views&color=0e75b6&style=flat" alt="msabalza730" /> </p>
 
-- 🔭 I’m currently working on [RPA project on ZINA TEAM by LSV Tech]([(https://zina.net.nokia.com/)])
+- 🔭 I’m currently working on [...])
 
 - 🌱 I’m currently learning **flask** & 
 
