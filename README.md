@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Freelance projects])
 
-- 🌱 I’m currently learning **flask** & 
+- 🌱 I’m currently learning **Flask** & 
 
-- 💬 Ask me about **Python, Django, Odoo**
+- 💬 Ask me about **Python, Django**
 
 - 📫 How to reach me **maryorism730@gmail.com**
 
