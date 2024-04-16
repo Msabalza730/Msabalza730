@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Freelance projects])
 
-- 🌱 I’m currently learning **Flask** & **FastAPI** 
+- 🌱 I’m currently learning **PowerBI** 
 
 - 💬 Ask me about **Python, Django**
 
