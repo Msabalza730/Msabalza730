@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Freelance projects])
 
-- 🌱 I’m currently learning **PowerBI** 
+- 🌱 I’m currently learning **Go** 
 
 - 💬 Ask me about **Python, Django**
 
